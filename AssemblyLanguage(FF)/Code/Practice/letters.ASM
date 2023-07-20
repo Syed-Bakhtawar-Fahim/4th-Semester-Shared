@@ -1,0 +1,25 @@
+; Print A-Z
+
+.model small
+.stack 100h
+.data
+.code
+
+Main Proc
+
+Mov cx, 26
+Mov dx, 65
+Loop1:
+Mov ah, 2
+INT 21h
+
+; Add dx, 1 ; Add 1 to 48
+Inc dx ; Increment by 1
+
+Loop Loop1
+
+Mov ah, 4ch
+INT 21h
+
+Main endp
+End Main

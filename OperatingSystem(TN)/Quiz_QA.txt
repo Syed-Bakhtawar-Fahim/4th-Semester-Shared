@@ -1,0 +1,31 @@
+
+============================ Quiz No. 01 =======================================
+1. Advantages of Multi threading
+2. Advantages of interrupt
+3. Can a process transmit from ready to block if yes why and if no
+4. What is process and what are the attributes of PCB
+5. What are the basic unit of computer (describe)
+6. What are the general rule of operating system and define two
+7. What is interrupt. Explain.
+9. Disadvantage of ULT
+10. 2 reasons/examples when a process transmit from running to ready
+11. What  are system calls?
+12. what is Context switching?
+13. what is a difference between threads and a process? 
+14. what are reason for process termination?
+15. How OS handles a process?
+16. Difference between preemptive and nonpreemptive?
+17. Relationships between threads and processes? 
+18. How system call works?
+19. Give two disadvantages of ULTs over KLTs?
+20. What are the similarlies between threads and processes
+
+1) What are the classes of interrupts?
+2) Write the functions of an OS ? Any 4
+3) Differentiate between KLT and ULT 
+4) What are the benefits of threads over process 
+5) Why process might be suspended
+
+========================= Quiz No. 01 (End of the list) ========================
+
+
